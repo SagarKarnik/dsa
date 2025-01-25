@@ -1,1 +1,1 @@
-This repo holds all practice and learnings or dsa 
+This repo holds all practice and learnings of dsa 
